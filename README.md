@@ -25,8 +25,11 @@ The dataset includes the following key columns:
 
 -	The pattern is highly fluctuating, this indicate that price does not have a consistent effect on the popularity (Winpercent) of candies.
 -	There are some peaks where higher-priced candies have high win percent, but there are also lower-priced candies with equally high popularity.
+  
+![](https://github.com/Morolayo123/Candy-Data-Analysis-/blob/main/visuals/Winpercent%20by%20Pricepercent.PNG)
 
--**Sum of Winpercent by Sugar Percent**
+
+-**Sum of Winpercent by Sugarpercent**
 
 -**Visualization Type:** Line Chart
 
@@ -37,6 +40,9 @@ The dataset includes the following key columns:
 -	The distribution also appears scattered with no clear trend, meaning sugar content does not have a strong linear impact on candy popularity.
 -	Some candies with very high sugar content have high win percent, while others do not.
 -	Popularity is not directly tied to sugar content; other factors such as taste, texture, or brand might contribute to the popularity.
+
+  ![](https://github.com/Morolayo123/Candy-Data-Analysis-/blob/main/visuals/Winpercent%20by%20Sugarpercent.PNG)
+
   
 -**Sum of Sugar Percent by Price Percent**
 
@@ -50,7 +56,8 @@ The dataset includes the following key columns:
 -	It suggests that sugar percent is distributed across all price levels, meaning that expensive candies are not necessarily sweeter.
 -	There is no clear connection between price and sugar content, some expensive candies have low sugar, while some cheaper ones are very sweet.
 
-![image](https://github.com/user-attachments/assets/96d5b26b-c335-4831-b2f2-4c211ec8007e)
+![](https://github.com/Morolayo123/Candy-Data-Analysis-/blob/main/visuals/Sugarpercent%20by%20Pricepercent.PNG)
+
 
 ## Conclusion & Recommendations
 
